@@ -1,5 +1,5 @@
 <div align="center">
-# Dart For The Impatient
+# DART FOR THE IMPATIENT
 
 ---
 
