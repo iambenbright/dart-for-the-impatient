@@ -1,6 +1,6 @@
 # Variables
 
-- hold reference to data in memory
+- holds reference to data in memory
 - the type of data can be inferred or explicit declared
 
 ## How to create and initialize variables
