@@ -17,4 +17,10 @@ main(List<String> args) {
   Map<int, String> elements = {1: 'hydrogen', 2: 'Lithium', 17: 'chlorine'};
   bool isOlder = false;
   #name; // creates Symbol type from name variable
+
+  // default values
+  // all unitialized variables have `null` value
+  int weight;
+  List<bool> answers;
+  String country;
 }

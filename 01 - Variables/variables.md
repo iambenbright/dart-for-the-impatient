@@ -1,6 +1,6 @@
 # Variables
 
-- holds reference to data in memory
+- hold reference to data in memory
 - the type of data can be inferred or explicit declared
 
 ## How to create and initialize variables
@@ -15,3 +15,8 @@ To create and initialize a variable `keyword variableName = value`;
 | :---     |  :---         |
 | data type is inferred    |  `var`, `dynamic`, `Object`, `const`, `final`  |
 | explicit declared type   | all built-in types  |
+
+## Default Values
+
+- All variables that are uninitialized have an implicit `null` value.
+- Even variables that reference numeric types
