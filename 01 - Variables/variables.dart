@@ -23,4 +23,18 @@ main(List<String> args) {
   int weight;
   List<bool> answers;
   String country;
+
+  // var
+  var student = "peter";
+  student = "paul"; // value can change
+  student = 23; // invalid_assignment: type cannot change
+
+  // dynamic and Object
+  dynamic someVariable = 24;  
+  someVariable = 'mango'; // value and type can change
+
+  // final and const
+  const brand = 'Gucci';
+  const show; // const_not_initialized: must always be initialized
+  final year; // final_not_initialized: must always be initialized
 }
