@@ -34,6 +34,7 @@ To declare and initialize a variable `keyword variableName = value`;
 
 - use if you don't intend to change the value of variable
 - must always be initialized
+- both value and type cannot change
 
 | const | final |
 | :--   | :--   |

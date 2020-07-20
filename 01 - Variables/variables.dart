@@ -35,6 +35,7 @@ main(List<String> args) {
 
   // final and const
   const brand = 'Gucci';
+  brand = 'D&C';  // both value and type cannot be changed
   const show; // const_not_initialized: must always be initialized
   final year; // final_not_initialized: must always be initialized
 }
